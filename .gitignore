@@ -1,0 +1,11 @@
+.env
+
+id_rsa
+id_rsa.pub
+known_hosts
+
+.terraform
+terraform.tfstate
+terraform.tfstate.backup
+
+_*.ok
